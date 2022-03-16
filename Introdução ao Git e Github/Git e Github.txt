@@ -1,0 +1,3 @@
+Cada objeto do git recebe um hash de 40 digitos o qual representa alterações no seu arquivo ou codigo.
+
+A chave SSH permite que você envie commits para o git sem que uma verificação de credenciais seja feita repetidamente, já que o git reconhece sua máquina como sistema confiável atraves dessa autenticação ssh.
